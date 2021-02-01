@@ -1,7 +1,7 @@
 # xmrig
 This container is a CUDA enabled build of xmrig/xmrig. It tracks the head of the
 master branch at build time. I used the guidance provided in the
-XMRig [Build(https://xmrig.com/docs/miner/build/ubuntu) documentation for Ubuntu
+XMRig [Build](https://xmrig.com/docs/miner/build/ubuntu) documentation for Ubuntu
 to put this image together.
 
 To minimize the complexity of pulling in the required dependencies and
